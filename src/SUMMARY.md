@@ -11,6 +11,7 @@
 - [██高中怪谈](./zhihu/xx-gao-zhong.md)
 - [标本馆守则](./zhihu/biao-ben-guan.md)
 - [奉山农业大学](./zhihu/feng-shan-nong-da.md)
+- [旅馆守则](./zhihu/lv-guan-shou-ze.md)
 
 # 半次元
 
