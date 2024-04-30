@@ -14,8 +14,8 @@
 
 ## 贡献指南
 
-如有对文章本身、出处、作者信息的勘误和指正，请前往本项目的GitHub仓库，开启一个issue或PR。
+如有对文章本身、出处、作者信息的勘误和指正，还请前往本项目的GitHub仓库开启一个issue或PR，感激不尽。
 
 如有希望添加到本书的文章，请添加一个PR。
 
-所有要求删除文章的issue或PR都会被无条件关闭。本书不是盈利项目，请不要以“禁止二传”“侵权”等原因请求删除文章。若你认为本项目确实严重侵犯到你的权益，请参考[GitHub DCMA下架政策](https://docs.github.com/zh/site-policy/content-removal-policies/dmca-takedown-policy)向GitHub, Inc提交DMCA通知，或参考[GitHub 政府下架政策](https://docs.github.com/zh/site-policy/other-site-policies/github-government-takedown-policy)，联系当地公安部门发函至GitHub, Inc。
+所有要求删除文章的issue或PR都会被无条件关闭。本书不是盈利项目，请不要以“禁止二传”“侵权”等原因请求删除文章。

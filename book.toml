@@ -1,6 +1,6 @@
 [book]
-authors = ["Zhang Yao"]
-language = "en"
+authors = ["Cinea"]
+language = "zh"
 multilingual = false
 src = "src"
 title = "中文规则怪谈精选"
